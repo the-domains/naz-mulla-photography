@@ -1,7 +1,7 @@
 name: naz/mulla/photography
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.07862427621148527
+typography_spectrum: 0.49883
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#F4F482'
   brandStrength: 0.5516480263322592
   lightness: 0.014060014393180609
-  saturation: 0.5335803981870413
+  saturation: 0.5
   rhythmicContrast: 0.25900068669579923
 purpose: []

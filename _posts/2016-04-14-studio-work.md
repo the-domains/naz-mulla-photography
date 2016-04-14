@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: studio work
-datePublished: '2016-04-14T05:03:06.349Z'
-dateModified: '2016-04-14T05:02:52.711Z'
+datePublished: '2016-04-14T05:08:11.074Z'
+dateModified: '2016-04-14T05:03:14.480Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-14-studio-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-14-studio-work.md
-published: true
 url: studio-work/index.html
 _type: Article
 

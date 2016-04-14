@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: studio work
-datePublished: '2016-04-14T05:08:11.074Z'
-dateModified: '2016-04-14T05:03:14.480Z'
+datePublished: '2016-04-14T05:14:02.918Z'
+dateModified: '2016-04-14T05:08:18.448Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-studio-work.md
